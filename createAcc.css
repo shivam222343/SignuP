@@ -13,6 +13,7 @@ body{
     align-content: center;
     min-height: 100vh;
     background: url('BG.jpg') no-repeat ;
+    background-size: cover;
     background-position: center;
 }
 
@@ -24,7 +25,7 @@ h1{
 }
 
 .container{
-    width: 335px;
+    width: 300px;
     height: 500px;
     background-color: transparent;
     text-decoration: wrap;
